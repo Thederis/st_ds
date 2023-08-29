@@ -1,0 +1,2 @@
+Max number is 20
+Min number is 6
