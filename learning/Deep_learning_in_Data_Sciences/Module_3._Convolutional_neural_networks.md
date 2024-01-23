@@ -512,3 +512,8 @@ x_train_float[:, :, :, np.newaxis]
 
 Таким образом, мы придумали очень эффективный inception-блок, который использует мало параметров и дает лучшее качество, чем набор свёрток 3 × 3.
 
+# 14. Дополнительные материалы
+
+- [Convolutional Networks](http://cs231n.github.io/convolutional-networks/)
+- [How do Convolutional Neural Networks work?](https://brohrer.github.io/how_convolutional_neural_networks_work.html) 
+- [How convolutional neural networks see the world?](https://blog.keras.io/how-convolutional-neural-networks-see-the-world.html)
